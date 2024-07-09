@@ -21,6 +21,5 @@ This project utilizes OpenAI's ChatGPT API for text summarization. Given a link 
 
 
 
-### link of website 
-https://cool-arithmetic-10a203.netlify.app/
+### link of website
 
