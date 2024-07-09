@@ -14,8 +14,7 @@ This project utilizes OpenAI's ChatGPT API for text summarization. Given a link 
 
 ## Example
 ### Input
-![pic1]summa2.JPG)
-
+![pic1](summa2.JPG)
 
 ![pic2](summa3.JPG)
 
