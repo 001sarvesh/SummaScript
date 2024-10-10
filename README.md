@@ -1,5 +1,5 @@
-# Article-Summarizer
-# Article Summarization using OpenAI's ChatGPT API
+# SummaScript
+# SummaScript using OpenAI's ChatGPT API
 
 # TechStack Used 
 ReactJs, Vite, Tailwind CSS, Redux Toolkit, RapidApi
